@@ -1,102 +1,81 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+# はじめに
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div>
+こんにちは！👋
+このリポジトリは私のGitHubプロフィールページです。
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
+## プロフィール統計
 
-## 🌟 **About Me**
+<p align="left">
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
+  </a>
+  <a href="https://github.com/Keichan15">
+    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Keichan_15">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/posts.svg" />
+  </a>
+  <a href="http://qiita.com/Keichan_15">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/contributions.svg" />
+  </a>
+  <a href="https://zenn.dev/keichan_15">
+    <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
+  </a>
+</p>
 
-<div align="center">
+## 技術スタック
 
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
-</td>
-<td width="400" align="left">
+### 言語
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+### フレームワーク
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+### ツール
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-</td>
-</tr>
-</table>
+## GitHub統計
 
-</div>
+### プロフィール詳細
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keichan15&theme=gruvbox)
 
-## 📊 **GitHub Analytics**
+### 言語別リポジトリ
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keichan15&theme=gruvbox)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
+### コミット言語
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Keichan15&theme=gruvbox)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
+### 統計
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keichan15&theme=gruvbox)
 
-## 🛠️ **Tech Stack**
+### 生産時間
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Keichan15&theme=gruvbox)
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
+## 🏆 GitHubトロフィー
+![](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits)
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+## 🐍 コントリビューションスネーク
+![](https://raw.githubusercontent.com/Keichan15/Keichan15/output/github-contribution-grid-snake.svg)
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+## リンク
 
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+- [Qiita](http://qiita.com/Keichan_15)
+- [Zenn](https://zenn.dev/keichan_15)
+- [Twitter](https://twitter.com/Keichan_15)
 
-</td>
-<td width="50%" align="center" valign="top">
+## お問い合わせ
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+お問い合わせは以下のいずれかの方法でお願いします：
+- GitHubのIssue
+- TwitterのDM
+- メール
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+---
 
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
-
-</td>
-</tr>
-</table>
-
-## 🏆 **GitHub Trophies (Commits)**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
-
-## 💭 **Random Dev Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  **⭐ From [user](https://github.com/user) with ❤️**
-  
-  *"Flutter makes everything beautiful! 🦋"*
-</div>
+⭐️ From [Keichan15](https://github.com/Keichan15) with ❤️
