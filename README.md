@@ -15,7 +15,7 @@
   <a href="https://qiita.com/Hutaba-Makura">
     <img height="20" src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Qiita%20followers&query=$.followers_count&url=https://qiita.com/api/v2/users/Hutaba-Makura" alt="Qiita followers" />
   </a>
-  <a href="https://zenn.dev/Hutaba-Makura">
+  <a href="https://zenn.dev/hutaba">
     <img height="20" src="https://badgen.org/img/zenn/hutaba/articles?style=plastic&color=blueviolet" alt="Zenn articles" />
   </a>
 </div>
