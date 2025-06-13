@@ -1,7 +1,5 @@
-# はじめに
-
 こんにちは！👋
-このリポジトリは私のGitHubプロフィールページです。
+このリポジトリはHutaba-MakuraのGitHubプロフィールページです。
 
 ## プロフィール統計
 
@@ -12,14 +10,17 @@
   <a href="https://github.com/Hutaba-Makura">
     <img height="20" src="https://img.shields.io/github/followers/Hutaba-Makura?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/Hutaba-Makura">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Hutaba-Makura/posts.svg" />
+  <!-- Qiita 投稿数 -->
+  <a href="https://qiita.com/Hutaba-Makura">
+    <img height="20" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Qiita%20posts&query=$.items_count&url=https://qiita.com/api/v2/users/Hutaba-Makura" alt="Qiita posts" />
   </a>
-  <a href="http://qiita.com/Hutaba-Makura">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Hutaba-Makura/contributions.svg" />
+  <!-- Qiita フォロワー数 -->
+  <a href="https://qiita.com/Hutaba-Makura">
+    <img height="20" src="https://img.shields.io/badge/dynamic/json?color=blue&label=Qiita%20followers&query=$.followers_count&url=https://qiita.com/api/v2/users/Hutaba-Makura" alt="Qiita followers" />
   </a>
+  <!-- Zenn 記事数（Badgen.org継続） -->
   <a href="https://zenn.dev/Hutaba-Makura">
-    <img height="20" src="https://badgen.org/img/zenn/Hutaba-Makura/articles?style=plastic" />
+    <img height="20" src="https://badgen.org/img/zenn/Hutaba-Makura/articles?style=plastic" alt="Zenn articles" />
   </a>
 </p>
 
