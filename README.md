@@ -1,5 +1,4 @@
-こんにちは！👋
-このリポジトリはHutaba-MakuraのGitHubプロフィールページです。
+Hutaba-MakuraのGitHubプロフィール
 
 ## プロフィール統計
 
@@ -50,19 +49,19 @@
 ## GitHub統計
 
 ### プロフィール詳細
-<img src="https://github-readme-stats.vercel.app/api?username=Hutaba-Makura&show_icons=true&theme=gruvbox&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hutaba-Makura&show_icons=true&&theme=aura&count_private=true" />
 
 ### 言語別リポジトリ
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hutaba-Makura&layout=compact&theme=gruvbox&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hutaba-Makura&layout=compact&&theme=aura&count_private=true" />
 
 ### コミット言語
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hutaba-Makura&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hutaba-Makura&&theme=aura&count_private=true" />
 
 ### 統計
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hutaba-Makura&theme=gruvbox&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hutaba-Makura&&theme=aura&count_private=true" />
 
 ### 生産時間
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hutaba-Makura&theme=gruvbox&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hutaba-Makura&theme=aura&layout=compact" />
 
 ## 🏆 GitHubトロフィー
 ![](https://github-profile-trophy.vercel.app/?username=Hutaba-Makura&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits)
@@ -73,14 +72,12 @@
 ## リンク
 
 - [Qiita](http://qiita.com/Hutaba-Makura)
-- [Zenn](https://zenn.dev/Hutaba-Makura)
-- [Twitter](https://twitter.com/Hutaba-Makura)
+- [Zenn](https://zenn.dev/hutaba)
 
 ## お問い合わせ
 
 お問い合わせは以下のいずれかの方法でお願いします：
 - GitHubのIssue
-- TwitterのDM
 - メール
 
 ---
