@@ -48,20 +48,9 @@ Hutaba-MakuraのGitHubプロフィール
 
 ## GitHub統計
 
-### プロフィール詳細
-<img src="https://github-readme-stats.vercel.app/api?username=Hutaba-Makura&show_icons=true&&theme=aura&count_private=true" />
-
-### 言語別リポジトリ
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hutaba-Makura&layout=compact&&theme=aura&count_private=true" />
-
-### コミット言語
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hutaba-Makura&&theme=aura&count_private=true" />
-
-### 統計
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hutaba-Makura&&theme=aura&count_private=true" />
-
-### 生産時間
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hutaba-Makura&theme=aura&layout=compact" />
+[![](https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🏆 GitHubトロフィー
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hutaba-Makura&theme=onedark&row=1&column=5&no-frame=true&no-bg=true&margin-w=4&margin-h=4&include_all_commits=true&count_private=true&title=Commits,PullRequest,Issues,Repositories,Experience)](https://github.com/ryo-ma/github-profile-trophy)
