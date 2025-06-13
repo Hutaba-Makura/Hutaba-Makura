@@ -21,8 +21,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hutaba-Makura&show_icons=true&theme=aura&count_private=true&hide_border=true&bg_color=0D1117&title_color=blueviolet&icon_color=blueviolet" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hutaba-Makura&layout=compact&theme=aura&count_private=true&hide_border=true&bg_color=0D1117&title_color=blueviolet&text_color=blueviolet" />
+  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/profile-summary-card-output/aura/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/profile-summary-card-output/aura/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/profile-summary-card-output/aura/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/profile-summary-card-output/aura/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/profile-summary-card-output/aura/4-productive-time.svg" />
 </div>
 
 <div align="center">
@@ -30,7 +33,7 @@
 </div>
 
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Hutaba-Makura&theme=onedark&row=1&column=5&no-frame=true&no-bg=true&margin-w=4&margin-h=4&include_all_commits=true&count_private=true&title=Commits,PullRequest,Issues,Repositories,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=Hutaba-Makura&theme=onedark&row=1&column=5&no-frame=true&no-bg=true&margin-w=4&margin-h=4&include_all_commits=true&count_private=true&title=Commits,PullRequest,Issues,Repositories,Experience&rank=SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 <div align="center">
