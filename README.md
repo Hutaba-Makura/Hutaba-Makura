@@ -70,6 +70,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thank%20you%20for%20visiting!&fontSize=40&animation=fadeIn&fontAlignY=38&background=0D1117&stroke=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=40&animation=fadeIn&fontAlignY=50&background=0D1117&stroke=000000" />
 </div>
 
