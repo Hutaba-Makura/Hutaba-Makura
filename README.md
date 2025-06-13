@@ -64,7 +64,7 @@ Hutaba-MakuraのGitHubプロフィール
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hutaba-Makura&theme=aura&layout=compact" />
 
 ## 🏆 GitHubトロフィー
-![](https://github-profile-trophy.vercel.app/?username=Hutaba-Makura&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hutaba-Makura&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐍 コントリビューションスネーク
 ![](https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/output/github-contribution-grid-snake.svg)
