@@ -20,7 +20,7 @@
   </a>
   <!-- Zenn 記事数（Badgen.org継続） -->
   <a href="https://zenn.dev/Hutaba-Makura">
-    <img height="20" src="https://badgen.org/img/zenn/Hutaba-Makura/articles?style=plastic" alt="Zenn articles" />
+    <img height="20" src="https://badgen.org/img/zenn/hutaba/articles?style=plastic" alt="Zenn articles" />
   </a>
 </p>
 
