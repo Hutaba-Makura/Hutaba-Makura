@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>バッジの再現</title>
+    <style>
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.5em 1em;
+            background-color: #000;
+            border-radius: 4px;
+            color: white;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-size: 14px;
+            text-decoration: none;
+            margin: 5px;
+        }
+
+        .badge svg {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+        }
+
+        .badge span {
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+    <div class="badge">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px" height="24px">
+            <path fill="white" d="M12.002,0.794L2,6.415v11.173l10,5.556l10-5.556V6.415L12.002,0.794z M11.5,21.767V11.29L3.117,6.5h17.778L11.5,21.767z"/>
+        </svg>
+        <span>Cursor</span>
+    </div>
+</body>
+</html> 
