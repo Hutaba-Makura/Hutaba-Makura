@@ -21,11 +21,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/profile-summary-card-output/aura/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/profile-summary-card-output/aura/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/profile-summary-card-output/aura/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/profile-summary-card-output/aura/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/profile-summary-card-output/aura/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/4-productive-time.svg" />
 </div>
 
 <div align="center">
