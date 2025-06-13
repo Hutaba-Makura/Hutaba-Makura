@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hutaba-Makura&theme=aura&hide_border=true&background=0D1117&stroke=blueviolet" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hutaba-Makura&theme=aura&hide_border=true&background=0D1117&stroke=blueviolet" />
 </div>
 
 <div align="center">
