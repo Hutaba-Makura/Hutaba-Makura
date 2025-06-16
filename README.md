@@ -1,7 +1,9 @@
+<!-- ヘッダー：ウェルカムメッセージとアニメーション付きのカプセル -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hutaba-Makura&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile!&descAlignY=55&descAlign=50" />
 </div>
 
+<!-- 各アカウントのフォロワー＆記事数など：GitHub、Qiita、Zennの統計情報 -->
 <div align="center">
   <a href="https://github.com/Hutaba-Makura">
     <img height="20" src="https://komarev.com/ghpvc/?username=Hutaba-Makura&color=blueviolet" />
@@ -20,6 +22,7 @@
   </a>
 </div>
 
+<!-- GitHubの統計情報：プロフィール詳細、言語別リポジトリ数、コミット言語、統計、生産的な時間 -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/0-profile-details.svg" />
   <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/1-repos-per-language.svg" />
@@ -28,18 +31,22 @@
   <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/main/profile-summary-card-output/aura/4-productive-time.svg" />
 </div>
 
+<!-- GitHubの連続コミット記録：ストリーク統計 -->
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hutaba-Makura&theme=aura&hide_border=true&background=0D1117&stroke=blueviolet" />
 </div>
 
+<!-- GitHubのトロフィー：コミット、PR、Issue、リポジトリ、経験値のランク表示 -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hutaba-Makura&theme=onedark&row=1&column=5&no-frame=true&no-bg=true&margin-w=4&margin-h=4&include_all_commits=true&count_private=true&title=Commits,PullRequest,Issues,Repositories,Experience&rank=SSS,SS,S,AAA,AA,A,B" />
 </div>
 
+<!-- GitHubのコントリビューショングラフ：スネークアニメーション -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hutaba-Makura/Hutaba-Makura/output/github-contribution-grid-snake.svg" />
 </div>
 
+<!-- 技術スタック：使用している言語、フレームワーク、ツール -->
 <div align="center">
   <h3>Tech Stack</h3>
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -61,6 +68,7 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
+<!-- 外部リンク：QiitaとZennのプロフィールページへのリンク -->
 <div align="center">
   <h3>Links</h3>
   <a href="http://qiita.com/Hutaba-Makura">
@@ -71,6 +79,7 @@
   </a>
 </div>
 
+<!-- フッター：訪問ありがとうメッセージとアニメーション付きのカプセル -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=footer&text=Thank%20you%20for%20visiting!&fontSize=40&animation=fadeIn&fontAlignY=60&background=1A1B1E" />
 </div>
